@@ -1,11 +1,11 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="programmer"  width="300" height="330" ></p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm mohamex4</h1>
-<h3 align="center">I'm a passionate Bug Bounty Hunter & Penetration Tester.</h3>
+<h3 align="center">Bug Bounty Hunter & Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamex4&label=Profile%20views&color=0e75b6&style=flat" alt="mohamex4" /> 
 <h3 align="left">🌚 About Me:</h3>
 </p>
-
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 - 🔭 I’m currently learning **API Testing & code review**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -26,3 +26,15 @@
 
 </a>
 <a href="https://github.com/Mohamex4?tab=followers"><img src="https://img.shields.io/github/followers/Mohamex4?label=Followers&style=social" alt="GitHub Badge"></a>
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamex4&theme=tokyonight_duo" alt="Mohamex4" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Mohamex4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohamex4&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamex4&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohamex4" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
