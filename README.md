@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamex4&label=Profile%20views&color=0e75b6&style=flat" alt="mohamex4" /> 
 <h3 align="left">🌚 About Me:</h3>
 </p>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 - 🔭 I’m currently learning **API Testing & code review**
 
