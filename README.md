@@ -26,7 +26,7 @@
 
 </a>
 <a href="https://github.com/Mohamex4?tab=followers"><img src="https://img.shields.io/github/followers/Mohamex4?label=Followers&style=social" alt="GitHub Badge"></a>
-## 📊 Github Stats
+## 📊 Github Stats:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamex4&theme=tokyonight_duo" alt="Mohamex4" /></p>
   <br/>
   <p align="center">
