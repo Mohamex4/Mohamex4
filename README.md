@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Mohamex4)
 
-- ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone.**
+- ⚡ Bug Bounty Hunter **I'm currently hunting on bugcrowd.**
 
 <h3 align="left">💌 Connect with me:</h3>
 <p align="left">
